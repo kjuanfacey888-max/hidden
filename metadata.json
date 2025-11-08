@@ -1,0 +1,8 @@
+{
+  "name": "work in progress",
+  "description": "A multi-faceted dashboard application. It includes a visually stunning and animated budgeting application, alongside a sleek and modern interface for managing invoices and finances, inspired by the Taxr design.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
